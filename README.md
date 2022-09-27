@@ -1,6 +1,6 @@
 # vue-at-fw
 
-## Projeto para o Assessmente de 
+## Projeto para o Assessmente de Frameworks Front-end e conexão com Back-end
 
 ## Project setup
 ```
